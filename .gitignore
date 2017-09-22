@@ -1,0 +1,11 @@
+# Intermediate and output files
+obj/
+bin/
+
+# VS database
+.vs/
+Dx11Demo.VC.db
+Dx11Demo.VC.VC.opendb
+
+# Migration user file
+*.vcxproj.user
